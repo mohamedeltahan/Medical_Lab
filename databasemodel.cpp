@@ -483,7 +483,7 @@ int  DatabaseModel::get_delive_doctor_id(QString name){
 
     bool b=q.prepare("select id from delive_doctor where  name=?" );
 
-    q.addBindValue(name);
+
     q.exec();
     q.first();
     return q.value(0).toInt();
