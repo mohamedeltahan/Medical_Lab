@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>images.jpg</file>
+        <file>Banner 2.jpg</file>
+        <file>../../download.jpg</file>
+        <file>../../images.png</file>
+        <file>../../chemistry/Capture.PNG</file>
+        <file>../../chemistry/Capture2.PNG</file>
+        <file>../../chemistry/Capture3.PNG</file>
+        <file>../../chemistry/Capture4.PNG</file>
+        <file>../../Preview.jpg</file>
+    </qresource>
+</RCC>
